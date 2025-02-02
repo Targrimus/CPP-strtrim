@@ -1,2 +1,3 @@
 # CPP-strtrim
-lambda function for trimming strings
+simple lambda functions for trimming strings
+
